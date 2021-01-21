@@ -1,6 +1,6 @@
-## Hi there 👋, I´m Álef Nascimento Oliveira
+# Hi there 👋, I´m Álef Nascimento Oliveira
 
-# About me
+## About me
 
 - Information Systems Student at Federal Institute of Sergipe
 - Trainee System Programmer by Sergipetec based at Sefaz-se
