@@ -3,7 +3,7 @@
 ## About me
 
 - Information Systems Student at Federal Institute of Sergipe
-- Trainee System Programmer by Sergipetec based at Sefaz-se
+- Junior Java Programmer at sergipetec / sefaz-se
 - Student of Java, Spring Framework, Angular and TypeScript technologies
 
 
